@@ -20,3 +20,5 @@ To update nginx config execute:
 ```
 ./bin/reload.sh
 ```
+
+Test rebase.
