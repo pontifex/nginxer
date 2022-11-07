@@ -1,3 +1,5 @@
+# zmiana testowa
+
 Endpoints to check by default:
 ```
 http://localhost/index.php
